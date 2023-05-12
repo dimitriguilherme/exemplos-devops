@@ -1,0 +1,1 @@
+This project contains solutions to the Ansible module exercises of the DevOps bootcamp
